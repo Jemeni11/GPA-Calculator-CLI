@@ -19,7 +19,7 @@ Quality Points = Course Credit Unit * Grade Point
 
 The CGPA is gotten by dividing the Total Quality Points by the Total Course Credit Units.
 
-The method of calculating the CGPA used is the University of Lagos version.
+The method of calculating the CGPA used is The University of Lagos version.
 
 # Follow me!
 Twitter: https://twitter.com/_tallCoder02
