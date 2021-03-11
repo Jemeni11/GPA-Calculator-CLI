@@ -5,7 +5,7 @@ A simple CLI tool that calculates a person's CGPA.
 The program takes in the course code, course mark, and the course credit units. Then it uses the table below to get the grade point.
 
 | Letter Grade | Grade Point | Marks/Score |
-| :---         |     :---:   |        ---: |
+| :---:        |     :---:   |       :---: |
 | A   | 5.0     | 70-100    |
 | B   | 4.0     | 60-69     |
 | C   | 3.0     | 50-59     |
@@ -18,5 +18,8 @@ It also finds out the total course credit units.
 Quality Points = Course Credit Unit * Grade Point
 
 The CGPA is gotten by dividing the Total Quality Points by the Total Course Credit Units.
+
+# Follow me!
+Twitter: https://twitter.com/_tallCoder02
 
 # Fin :)
