@@ -1,5 +1,5 @@
-# CGPA-Calculator
-A simple CLI tool that calculates a person's CGPA.
+# GPA-Calculator
+A simple CLI tool that calculates a person's GPA.
 
 # How it works
 The program takes in the course code, course mark, and the course credit units. Then it uses the table below to get the grade point.
@@ -17,9 +17,9 @@ Then it finds out the Quality Points and adds them up to get the Total.
 It also finds out the total course credit units.
 Quality Points = Course Credit Unit * Grade Point
 
-The CGPA is gotten by dividing the Total Quality Points by the Total Course Credit Units.
+The GPA is gotten by dividing the Total Quality Points by the Total Course Credit Units.
 
-The method of calculating the CGPA used is The University of Lagos version.
+The method of calculating the GPA used is The University of Lagos version.
 
 # Follow me!
 Twitter: https://twitter.com/_tallCoder02
