@@ -21,7 +21,4 @@ The GPA is gotten by dividing the Total Quality Points by the Total Course Credi
 
 The method of calculating the GPA used is The University of Lagos version.
 
-# Follow me!
-Twitter: https://twitter.com/_tallCoder02
-
 # Fin :)
