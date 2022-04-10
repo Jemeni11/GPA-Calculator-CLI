@@ -2,8 +2,8 @@ from time import sleep
 print("Loading...")
 sleep(.5)
 print("Welcome!!!\n"
-      "This is a CGPA Calculator created by GitHub user _tallCoder02\n"
-      "_______________________________________________________________")
+      "This is a CGPA Calculator\n"
+      "_________________________")
 L = []
 QualityPoints = []
 TotalQualityPoints = 0
